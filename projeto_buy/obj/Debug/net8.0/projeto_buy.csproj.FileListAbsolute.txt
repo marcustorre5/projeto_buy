@@ -1,0 +1,28 @@
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.exe
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.deps.json
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.runtimeconfig.json
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.dll
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.pdb
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.AssemblyInfoInputs.cache
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.AssemblyInfo.cs
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.csproj.CoreCompileInputs.cache
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.dll
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\refint\projeto_buy.dll
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.pdb
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.genruntimeconfig.cache
+C:\Users\eng online\Desktop\c\projeto_buy\projeto_buy\obj\Debug\net8.0\ref\projeto_buy.dll
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.exe
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.deps.json
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.runtimeconfig.json
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.dll
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\bin\Debug\net8.0\projeto_buy.pdb
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.AssemblyInfoInputs.cache
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.AssemblyInfo.cs
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.csproj.CoreCompileInputs.cache
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.dll
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\refint\projeto_buy.dll
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.pdb
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\projeto_buy.genruntimeconfig.cache
+C:\Users\SSD2\Desktop\c#\projeto_buy\projeto_buy\obj\Debug\net8.0\ref\projeto_buy.dll
